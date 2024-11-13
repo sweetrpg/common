@@ -1,0 +1,12 @@
+[submodule "go"]
+	path = go
+	url = git@github.com:sweetrpg/common.go.git
+[submodule "rust"]
+	path = rust
+	url = git@github.com:sweetrpg/common.rs.git
+[submodule "swift"]
+	path = swift
+	url = git@github.com:sweetrpg/common.swift.git
+[submodule "python"]
+	path = python
+	url = git@github.com:sweetrpg/common.py.git
